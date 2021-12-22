@@ -1,0 +1,57 @@
+{
+	"name":"My First NFT",
+    "description":" Learning to mint NFTs using Candy Machine",
+    "image":"image.png",
+    "date": 633885941000,
+ 	"symbol": "",
+ 	"seller_fee_basis_points": 0,
+    "collection": {
+       "name": "My NFT Collection",
+       "family": "My Family"
+     },
+	"properties": {
+       "files": [
+         {
+           "url": "image.png",
+           "type": "image/png"
+         }
+       ],
+       "category": "image",
+       "creators": [
+         {
+           "address": "FFYy1Eopyxwkoo85VDJPGePc4NJC7WGvr1z5fNXBvToJ",
+           "share": 100
+         }
+       ]
+     },
+    "attributes": [
+       {
+         "trait_type": "First",
+         "value": "Gonna"
+       },
+       {
+         "trait_type": "Second",
+         "value": "Moon"
+       },
+       {
+         "trait_type": "Third",
+         "value": "Like"
+       },
+       {
+         "trait_type": "Fourth",
+         "value": "Crazy"
+       },
+       {
+         "trait_type": "Fifth",
+         "value": "WAG"
+       },
+       {
+         "trait_type": "Sixth",
+         "value": "MI"
+       },
+       {
+         "trait_type": "seventh",
+         "value": "LFG"
+       }
+     ]
+}
