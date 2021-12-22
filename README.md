@@ -3,7 +3,8 @@
     <img alt="Metaplex" src="js/packages/web/public/metaplex-logo.svg" style="background: black; padding: 10px" width="250" />
   </a>
 </p>
-A note from Faisal - This is the v1 of candymachine cloned on 21st December,2021. There have been changes made on 22nd December,2021 and now this code will not upload the asset images for your NFT properly. Please refer to hackmd.io to read about changes.
+**A note from Faisal - This is the v1 of candymachine cloned on 21st December,2021. There have been changes made on 22nd December,2021 and now this code will not upload the asset images for your NFT properly. Please refer to hackmd.io to read about changes.**
+
 Metaplex is a protocol built on top of Solana that allows:
 
 - **Creating/Minting** Non-Fungible Tokens;
